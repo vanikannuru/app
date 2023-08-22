@@ -1,0 +1,32 @@
+class="fs-6 caption-date" style="font-weight:bold;">12 Apr 2023</p> 
+                    </div> 
+                  </div> 
+                  <h4 class="card-title mt-3" style="text-decoration: underline;">Landing Page</h4> 
+                  <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae odio eget 
+                    velit tristique bib</p> 
+                  <a href="# class="btn btn-primary" id="read-more-1">Read more</a> 
+ 
+                </div> 
+              </div> 
+            </div> 
+          </div> 
+        </div> 
+ 
+        <div class="tab-pane" id="tab5"> 
+          <div class="row row-cols-1 row-cols-md-2 row-cols-lg-2 g-4"> 
+            <div class="col"> 
+              <div class="card"> 
+                <div class="card-body"> 
+                  <div class="image-container"> 
+                    <img 
+                      src="https://img.freepik.com/free-photo/guy-shows-document-girl-group-young-freelancers-office-have-conversation-working_146671-13569.jpg?w=900&t=st=1688935352~exp=1688935952~hmac=a33df4cdee82a6eac7e1f8a116fb5f6c65637c0174ec95776dffd22e5807da97" 
+                      class="card-img-top img-fluid" alt="Image"> 
+                    <div class="image-caption"> 
+                      <p class="mt fs-6 caption-name" style="font-weight:bold;">Olivia Rhye</p> 
+                      <p class="fs-6 caption-date" style="font-weight:bold;">12 Apr 2023</p> 
+                    </div> 
+                  </div> 
+                  <h4 class="card-title mt-3" style="text-decoration: underline;"> Team management</h4> 
+                  <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae odio eget 
+                    velit tristique bib</p> 
+                  <a href="# class="btn btn-primary" id="read-more-1">Read more</a>
